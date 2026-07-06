@@ -70,7 +70,7 @@ RAG · LLM · NLP (BERT, LDA) · MLOps
 
 ## 📫 Me contacter
 
-[![Email](https://img.shields.io/badge/Email-teamtechlcs%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabricerandrianaivo8@gmail.com)
+[![Email](https://img.shields.io/badge/Email-fabricerandrianaivo8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabricerandrianaivo8@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fabrice-randrianaivo.vercel.app)
 [![Codeur.com](https://img.shields.io/badge/Codeur.com-5★-FF6B00?style=for-the-badge)](#)
