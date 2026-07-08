@@ -20,10 +20,10 @@
 
 Je transforme des idées en produits complets et fiables — **frontend, backend, mobile et intégration d'IA générative en production**. Ma double compétence **JavaScript + IA** me permet de livrer des applications modernes *et* d'y injecter de la valeur concrète : assistants intelligents, automatisation, RAG, vision par ordinateur.
 
-- 💼 **Senior Software Engineer @ Externam Studio** (depuis oct. 2025) — pilotage d'un partenariat technique avec Anthropic (certification CCA-F, déploiements en production)
-- 🚀 **Freelance** — disponible pour missions web/mobile, intégration IA et lead dev (remote, marché FR & EN)
-- 🏅 **Google Developer** — badges *Google Cloud Innovator*, *Firebase Studio Developer*, *Gemini Enterprise Agent Ready*
-- 🎟️ Inscrit à **Google I/O 2026**
+- 🎫 **Lead Tech & Chef de projet @ Externam** — je pilote **Borne Stad V2**, la nouvelle génération de cabines photo d'identité déployée en France (**lancement octobre 2026**) : architecture Java 21 / JavaFX, IA embarquée (OCR), conformité ANTS, équipe de 5 développeurs.
+- 🚀 **Freelance** — disponible pour missions web/mobile, intégration IA et lead dev (remote, marché FR & EN).
+- 🏅 **Google Developer** — badges *Cloud Innovator*, *Firebase Studio*, *Gemini Enterprise Agent Ready* · **Certified Claude Agent (CCA-F)**.
+- 🎟️ Inscrit à **Google I/O 2026**.
 
 ---
 
@@ -31,14 +31,16 @@ Je transforme des idées en produits complets et fiables — **frontend, backend
 
 | Projet | Description | Stack | Lien |
 |--------|-------------|-------|------|
-| **🔮 Hologram AI** | Hologramme 3D interactif piloté par une IA vocale — l'effet « waouh » | React · Three.js · Gemini | [Démo live](https://hologramme3d.vercel.app) |
-| **🏠 RentFlow / CosyNight** | SaaS de gestion locative automatisée pour un client réel | Next.js · TypeScript · Prisma | [Démo live](https://rentflow-cosynight.vercel.app) |
-| **🐍 RedPy AI** | Plateforme d'apprentissage Python/IA interactive avec exécution de code | React · TypeScript · FastAPI | [Démo live](https://redpy-ai.vercel.app) |
-| **🌿 e-Vanille** | E-commerce haut de gamme pour une agence d'exportation de vanille | Next.js 14 · Prisma | [Démo live](https://my-vanilla-store-mada.vercel.app) |
-| **🎯 IntelliDetect** | Détection d'objets en temps réel (projet de Master) | React · FastAPI · YOLO | *Privé* |
-| **🎮 LootLynx** | Hub mobile de codes promo & Creator Codes pour gamers | Flutter · Firebase | *Privé* |
+| 🎫 **Borne Stad V2** | Nouvelle génération de cabines photo d'identité (France, lancement oct. 2026) — **je pilote le projet en tant que Chef de projet & Lead Tech** | Java 21 · JavaFX · Guice · OCR/IA | 🔒 Privé |
+| 🩺 **AISPAM — App médicale** | Gestion médicale pour praticiens : patients, consultations, RDV, prescriptions PDF, conformité RGPD | Flutter · FastAPI · PostgreSQL | 🔒 Privé |
+| 🏠 **RentFlow / CosyNight** | SaaS de gestion locative automatisée (client réel) | Next.js · TypeScript · Prisma | [Démo live](https://rentflow-cosynight.vercel.app) |
+| 🌿 **e-Vanille** | E-commerce haut de gamme pour l'export de vanille de Madagascar | Next.js 14 · Stripe · Supabase | [Démo live](https://my-vanilla-store-mada.vercel.app) |
+| 🤖 **Servitus** | Plateforme SaaS multi-tenant d'assistants IA — agents isolés par client, pilotés via Telegram | Next.js · FastAPI · OpenRouter · Stripe | 🔒 Privé |
+| 🔮 **Hologram AI** | Avatar 3D interactif piloté par IA vocale + suivi facial temps réel | React · Three.js · Gemini | [Démo live](https://hologramme3d.vercel.app) |
+| 🎨 **PaletteKit** | Micro-SaaS de génération de palettes de couleurs assisté par IA | Next.js · Anthropic · Stripe | [Démo live](https://palette-kit-rho.vercel.app) |
+| 🎮 **LootLynx** | Hub mobile de codes promo & Creator Codes pour gamers | Flutter · Firebase | 🔒 Privé |
 
-> Une partie de mes projets clients est privée — écrivez-moi pour une démo guidée.
+> Une grande partie de mes projets clients est **privée** — écrivez-moi pour une démo guidée. 📩
 
 ---
 
@@ -58,21 +60,23 @@ Je transforme des idées en produits complets et fiables — **frontend, backend
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **IA & Data**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-RAG · LLM · NLP (BERT, LDA) · YOLO · MLOps
+RAG · LLM · NLP (BERT, LDA) · YOLO · OCR · MLOps
 
 **Infra & Outils**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
