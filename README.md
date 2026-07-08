@@ -31,7 +31,7 @@ Je transforme des idées en produits complets et fiables — **frontend, backend
 
 | Projet | Description | Stack | Lien |
 |--------|-------------|-------|------|
-| **🔮 Hologram AI** | Hologramme 3D interactif piloté par une IA vocale — l'effet « waouh » | React · Three.js · OpenAI | [Démo live](https://hologramme3d.vercel.app) |
+| **🔮 Hologram AI** | Hologramme 3D interactif piloté par une IA vocale — l'effet « waouh » | React · Three.js · Gemini | [Démo live](https://hologramme3d.vercel.app) |
 | **🏠 RentFlow / CosyNight** | SaaS de gestion locative automatisée pour un client réel | Next.js · TypeScript · Prisma | [Démo live](https://rentflow-cosynight.vercel.app) |
 | **🐍 RedPy AI** | Plateforme d'apprentissage Python/IA interactive avec exécution de code | React · TypeScript · FastAPI | [Démo live](https://redpy-ai.vercel.app) |
 | **🌿 e-Vanille** | E-commerce haut de gamme pour une agence d'exportation de vanille | Next.js 14 · Prisma | [Démo live](https://my-vanilla-store-mada.vercel.app) |
