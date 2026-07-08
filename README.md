@@ -20,7 +20,7 @@
 
 Je transforme des idées en produits complets et fiables — **frontend, backend, mobile et intégration d'IA générative en production**. Ma double compétence **JavaScript + IA** me permet de livrer des applications modernes *et* d'y injecter de la valeur concrète : assistants intelligents, automatisation, RAG, vision par ordinateur.
 
-- 🎫 **Lead Tech & Chef de projet @ Externam** — je pilote **Borne Stad V2**, la nouvelle génération de cabines photo d'identité déployée en France (**lancement octobre 2026**) : architecture Java 21 / JavaFX, IA embarquée (OCR), conformité ANTS, équipe de 5 développeurs.
+- 💼 **Lead Tech & Chef de projet** — je pilote des projets web, mobile et embarqués complexes, du cadrage jusqu'à la production.
 - 🚀 **Freelance** — disponible pour missions web/mobile, intégration IA et lead dev (remote, marché FR & EN).
 - 🏅 **Google Developer** — badges *Cloud Innovator*, *Firebase Studio*, *Gemini Enterprise Agent Ready* · **Certified Claude Agent (CCA-F)**.
 - 🎟️ Inscrit à **Google I/O 2026**.
@@ -31,16 +31,16 @@ Je transforme des idées en produits complets et fiables — **frontend, backend
 
 | Projet | Description | Stack | Lien |
 |--------|-------------|-------|------|
-| 🎫 **Borne Stad V2** | Nouvelle génération de cabines photo d'identité (France, lancement oct. 2026) — **je pilote le projet en tant que Chef de projet & Lead Tech** | Java 21 · JavaFX · Guice · OCR/IA | 🔒 Privé |
-| 🩺 **AISPAM — App médicale** | Gestion médicale pour praticiens : patients, consultations, RDV, prescriptions PDF, conformité RGPD | Flutter · FastAPI · PostgreSQL | 🔒 Privé |
-| 🏠 **RentFlow / CosyNight** | SaaS de gestion locative automatisée (client réel) | Next.js · TypeScript · Prisma | [Démo live](https://rentflow-cosynight.vercel.app) |
-| 🌿 **e-Vanille** | E-commerce haut de gamme pour l'export de vanille de Madagascar | Next.js 14 · Stripe · Supabase | [Démo live](https://my-vanilla-store-mada.vercel.app) |
-| 🤖 **Servitus** | Plateforme SaaS multi-tenant d'assistants IA — agents isolés par client, pilotés via Telegram | Next.js · FastAPI · OpenRouter · Stripe | 🔒 Privé |
-| 🔮 **Hologram AI** | Avatar 3D interactif piloté par IA vocale + suivi facial temps réel | React · Three.js · Gemini | [Démo live](https://hologramme3d.vercel.app) |
+| 🎫 **Borne Stad V2** | Cabine photo d'identité nouvelle génération — **Chef de projet & Lead Tech** | Java 21 · JavaFX · OCR/IA | 🔒 Privé |
+| 🩺 **AISPAM** | Application mobile de gestion médicale pour praticiens | Flutter · FastAPI · PostgreSQL | 🔒 Privé |
+| 🏠 **RentFlow / CosyNight** | SaaS de gestion locative automatisée | Next.js · TypeScript · Prisma | [Démo live](https://rentflow-cosynight.vercel.app) |
+| 🌿 **e-Vanille** | E-commerce haut de gamme pour l'export de vanille | Next.js 14 · Stripe · Supabase | [Démo live](https://my-vanilla-store-mada.vercel.app) |
+| 🤖 **Servitus** | Plateforme SaaS multi-tenant d'assistants IA | Next.js · FastAPI · OpenRouter · Stripe | 🔒 Privé |
+| 🔮 **Hologram AI** | Avatar 3D interactif piloté par IA vocale + suivi facial | React · Three.js · Gemini | [Démo live](https://hologramme3d.vercel.app) |
 | 🎨 **PaletteKit** | Micro-SaaS de génération de palettes de couleurs assisté par IA | Next.js · Anthropic · Stripe | [Démo live](https://palette-kit-rho.vercel.app) |
 | 🎮 **LootLynx** | Hub mobile de codes promo & Creator Codes pour gamers | Flutter · Firebase | 🔒 Privé |
 
-> Une grande partie de mes projets clients est **privée** — écrivez-moi pour une démo guidée. 📩
+> Une grande partie de mes projets clients est **privée / sous confidentialité** — écrivez-moi pour une présentation adaptée. 📩
 
 ---
 
@@ -60,7 +60,7 @@ Je transforme des idées en produits complets et fiables — **frontend, backend
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
