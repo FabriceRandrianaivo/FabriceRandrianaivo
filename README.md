@@ -18,7 +18,7 @@
 
 ## 🧭 En bref
 
-Je transforme des idées en produits complets et fiables — **frontend, backend, mobile et intégration d'IA générative en production**. Ma double compétence **JavaScript + IA** me permet de livrer des applications modernes *et* d'y injecter de la valeur concrète : assistants intelligents, automatisation, RAG, vision par ordinateur.
+Je transforme des idées en produits complets et fiables — **frontend, backend, mobile et intégration d'IA générative en production**. Ma double compétence **FullStack + IA** me permet de livrer des applications modernes *et* d'y injecter de la valeur concrète : assistants intelligents, automatisation, RAG, vision par ordinateur.
 
 - 💼 **Lead Tech & Chef de projet** — je pilote des projets web, mobile et embarqués complexes, du cadrage jusqu'à la production.
 - 🚀 **Freelance** — disponible pour missions web/mobile, intégration IA et lead dev (remote, marché FR & EN).
