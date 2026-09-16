@@ -102,10 +102,10 @@ RAG · LLM · NLP (BERT, LDA) · YOLO · OCR · MLOps
 ![Abonnés](https://img.shields.io/github/followers/FabriceRandrianaivo?style=for-the-badge&logo=github&label=Abonn%C3%A9s&color=1f6feb&labelColor=0d1117)
 ![Étoiles](https://img.shields.io/github/stars/FabriceRandrianaivo?style=for-the-badge&logo=github&label=%C3%89toiles&color=8957e5&labelColor=0d1117)
 
-![Série de contributions](https://streak-stats.demolab.com?user=FabriceRandrianaivo&theme=tokyonight&hide_border=true&locale=fr)
+![Statistiques GitHub](https://github-readme-stats-ruby-zeta-11.vercel.app/api?username=FabriceRandrianaivo&show_icons=true&theme=tokyonight&hide_border=true&locale=fr&count_private=true&include_all_commits=true)
+![Langages les plus utilisés](https://github-readme-stats-ruby-zeta-11.vercel.app/api/top-langs/?username=FabriceRandrianaivo&layout=compact&theme=tokyonight&hide_border=true&locale=fr&langs_count=10)
 
-![Langages les plus utilisés](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FabriceRandrianaivo&theme=tokyonight)
-![Langages les plus commités](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FabriceRandrianaivo&theme=tokyonight)
+![Série de contributions](https://streak-stats.demolab.com?user=FabriceRandrianaivo&theme=tokyonight&hide_border=true&locale=fr)
 
 </div>
 
